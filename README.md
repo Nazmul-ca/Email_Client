@@ -1,2 +1,2 @@
 # Email_Client
-This application written on python
+Application written on Python. It provides email sending facility (SMTP) with TLS/SSL connection 
